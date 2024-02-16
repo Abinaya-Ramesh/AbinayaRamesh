@@ -1,4 +1,4 @@
-![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVUoeRHWAbYNXkDO60-M-9VRqJfrdCrCfoXw&usqp=CAU.gif)
+
 
 <h1 align="center">Hi 👋, I'm Abinaya Ramesh</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
